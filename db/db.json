@@ -3,11 +3,122 @@
     {
       "id": 1,
       "name": "The Pine",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "ministry_rank":2,
-      "Services": ["Kidney Dialysis","X-ray","MRM","Kidney Stones"],
+      "image": "https://i2-prod.mirror.co.uk/incoming/article7640441.ece/ALTERNATES/s1200/Stepping-Hill-Hospital.jpg",
+      "ministry_rank":1,
+      "service": "Kidney Dialysis",
       "treatment_schedule":"Normal day and prenight.",
-      "pricing_model":["NHIF", "Statutory company cards.","Cash"],
+      "pricing_model":"Cash",
+      "appointments":[],
+      "reviews":["Best Dialysis Services","The schedule is bit skewed"],
+      "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
+    },
+    {
+      "id": 2,
+      "name": "Nairobi Hospital",
+      "image": "https://i0.wp.com/www.pd.co.ke/wp-content/uploads/2021/03/Nairobi-Hospital.jpg",
+      "ministry_rank":1,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "appointments":[],
+      "health_journal": "An X-ray is a quick, painless test that produces images of the structures inside your body — particularly your bones.X-ray beams pass through your body, and they are absorbed in different amounts depending on the density of the material they pass through. Dense materials, such as bone and metal, show up as white on X-rays. The air in your lungs shows up as black. Fat and muscle appear as shades of gray.For some types of X-ray tests, a contrast medium — such as iodine or barium — is introduced into your body to provide greater detail on the images."
+    },
+    {
+      "id": 3,
+      "name": "Nairobi Womens",
+      "image": "https://cdn.standardmedia.co.ke/sdemedia/sdeimages/tuesday/wxeli7l3dupsfk8ypu55ee93dd898c5.jpg",
+      "ministry_rank":2,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "appointments":[],
+      "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
+    },
+    {
+      "id": 4,
+      "name": "Mbagathi",
+      "image": "https://cdn.standardmedia.co.ke/sdemedia/sdeimages/tuesday/wxeli7l3dupsfk8ypu55ee93dd898c5.jpg",
+      "ministry_rank":2,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "appointments":[],
+      "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
+    },
+    {
+      "id": 5,
+      "name": "Kiambu Maximum",
+      "image": "https://lh3.googleusercontent.com/p/AF1QipP59Y0Ys5M948LqhX5NuePGzi9wLYX3kSNpMv_v=w1080-h608-p-no-v0 ",
+      "ministry_rank":3,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "appointments":[],
+      "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
+    }
+    ,{
+      "id": 6,
+      "name": "Predict.",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article7640441.ece/ALTERNATES/s1200/Stepping-Hill-Hospital.jpg",
+      "ministry_rank":3,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
+    }
+    ,{
+      "id": 7,
+      "name": "Agha Khan Nairobi",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article7640441.ece/ALTERNATES/s1200/Stepping-Hill-Hospital.jpg",
+      "ministry_rank":4,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "appointments":[],
+      "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
+    },
+    {
+      "id": 8,
+      "name": "AAAR Hospital",
+      "image": "https://nairobiwire.com/wp-content/uploads/2022/05/AAR-Hospital-Maternity-Charges-in-2022.png",
+      "ministry_rank":4,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "appointments":[],
+      "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
+    }
+    ,{
+      "id": 9,
+      "name": "TGetrudes Hospital",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article7640441.ece/ALTERNATES/s1200/Stepping-Hill-Hospital.jpg",
+      "ministry_rank":5,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "appointments":[],
+      "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
+    },
+    {
+      "id": 10,
+      "name": "The Komarock Modern",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article7640441.ece/ALTERNATES/s1200/Stepping-Hill-Hospital.jpg",
+      "ministry_rank":5,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "appointments":[],
+      "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
+    },
+    {
+      "id": 11,
+      "name": "Thika Level 4",
+      "image": "https://i2-prod.mirror.co.uk/incoming/article7640441.ece/ALTERNATES/s1200/Stepping-Hill-Hospital.jpg",
+      "ministry_rank":5,
+      "service": "Kidney Dialysis",
+      "treatment_schedule":"Normal day and prenight.",
+      "pricing_model":"Statutory company cards",
+      "appointments":[],
       "health_journal": "Dialysis is a procedure to remove waste products and excess fluid from the blood when the kidneys stop working properly. It often involves diverting blood to a machine to be cleaned.Normally, the kidneys filter the blood, removing harmful waste products and excess fluid and turning these into urine to be passed out of the body."
     }
   ]
