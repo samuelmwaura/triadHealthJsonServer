@@ -41,7 +41,7 @@
     {
       "id": 4,
       "name": "Mbagathi",
-      "image": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh-yNLd0Gs2UqTsaQEotFIC7nlfDlntiWfQ&usqp=CAU",
       "ministry_rank": 2,
       "service": "Diabetes treatment.",
       "treatment_schedule": "Normal day and prenight.",
@@ -85,7 +85,7 @@
     {
       "id": 8,
       "name": "AAAR Hospital",
-      "image": "",
+      "image": "https://victormatara.com/wp-content/uploads/2022/02/AAR-Hospital-Maternity-Charges.jpeg",
       "ministry_rank": 4,
       "service": "Skin therapy",
       "treatment_schedule": "24hrs",
