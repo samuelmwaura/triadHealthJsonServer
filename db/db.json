@@ -6,11 +6,9 @@
       "image": "https://i2-prod.mirror.co.uk/incoming/article7640441.ece/ALTERNATES/s1200/Stepping-Hill-Hospital.jpg",
       "ministry_rank": 1,
       "service": "Kidney Dialysis",
-      "treatment_schedule": "Normal day and prenight.",
-      "pricing_model": "Cash",
-      "appointments": [
-        
-      ],
+      "treatment_schedule": "Normal day",
+      "pricing_model": "All",
+      "appointments": [ ],
       "reviews": [
         "Best Dialysis Services",
         "The schedule is bit skewed",
@@ -24,10 +22,10 @@
       "image": "https://i0.wp.com/www.pd.co.ke/wp-content/uploads/2021/03/Nairobi-Hospital.jpg",
       "ministry_rank": 1,
       "service": "MRM Scanning",
-      "treatment_schedule": "Normal day and prenight.",
+      "treatment_schedule": "24hrs",
       "pricing_model": "Statutory company cards",
       "appointments": [],
-      "health_journal": "Multiple reaction monitoring (MRM, also known as Selective Reaction Monitoring – SRM) is a highly specific and sensitive mass spectrometry technique that can selectively quantify compounds within complex mixtures. This technique uses a triple quadrupole MS that firstly targets the ion corresponding to the compound of interest with subsequent fragmentation of that target ion to produce a range of daughter ions. One (or more) of these fragment daughter ions can be selected for quantitation purposes. Only compounds that meet both these criteria, i.e. specific parent ion and specific daughter ions corresponding to the mass of the molecule of interest are isolated within the mass spectrometer. By ignoring all other ions that flow into the mass spectrometer the experiment gains sensitivity, whilst maintaining exquisite accuracy.MRM is performed for selection of specific analytes and absolute quantitation of proteins, peptides, metabolites and lipids from plasma, serum and other biological samples.The world’s leading mass spectrometer manufacturer, AB Sciex has released a technote to illustrate Biomarker Discovery using Proteomics International’s research pipeline for Diabetic Kidney Disease.Essentially any compound that can be ionized and then fragmented can be used for MRM analysis. The most typical examples being the measurement of proteins and peptides, metabolites, or drugs in complex mixtures such as plasma and serum. Quantitation of proteins is possible through the MRM experiment on digested peptides that correspond to the protein of interest. This makes MRM analysis a common choice for detection and quantitation in Biomarker analysis. As the name suggests more than one MRM can be monitored per analysis allowing detection of multiple compounds in the same experiment.This is a highly sensitive technique. It is possible to detect peptide compounds not normally seen by a typical MS approach. For example peptides can be accurately quantitated at femtomole concentration. In complex samples such us plasma, peptides can be quantitated at μg/ml concentration."
+      "health_journal": "Multiple reaction monitoring (MRM, also known as Selective Reaction Monitoring – SRM) is a highly specific and sensitive mass spectrometry technique that can selectively quantify compounds within complex mixtures. This technique uses a triple quadrupole MS that firstly targets the ion corresponding to the compound of interest with subsequent fragmentation of that target ion to produce a range of daughter ions. One (or more) of these fragment daughter ions can be selected for quantitation purposes. Only compounds that meet both these criteria, i.e. specific parent ion and specific daughter ions corresponding to the mass of the molecule of interest are isolated within the mass spectrometer. By ignoring all other ions that flow into the mass spectrometer the experiment gains sensitivity, whilst maintaining exquisite accuracy.MRM is performed for selection of specific analytes and absolute quantitation of proteins, peptides, metabolites and lipids from plasma, serum and other biological samples.The world’s leading mass spectrometer manufacturer, AB Sciex has released a technote to illustrate Biomarker Discovery using Proteomics International’s research pipeline for Diabetic Kidney Disease.Essentially any compound that can be ionized and then fragmented can be used for MRM analysis. The most typical examples being the measurement of proteins and peptides, metabolites, or drugs in complex mixtures such as plasma and serum. Quantitation of proteins is possible through the MRM experiment on digested peptides that correspond to the protein of interest. This makes MRM analysis a common choice for detection and quantitation in Biomarker analysis. As the name suggests more than one MRM can be monitored per analysis allowing detection of multiple compounds in the same experiment.This is a highly sensitive technique."
     },
     {
       "id": 3,
@@ -36,18 +34,18 @@
       "ministry_rank": 2,
       "service": "Cancer Screening",
       "treatment_schedule": "Normal day and prenight.",
-      "pricing_model": "Statutory company cards",
+      "pricing_model": "Cash",
       "appointments": [],
       "health_journal": "Screening tests can help find cancer at an early stage, before symptoms appear. When abnormal tissue or cancer is found early, it may be easier to treat or cure. By the time symptoms appear, the cancer may have grown and spread. This can make the cancer harder to treat or cure.Not all screening tests are helpful and most have risks. It is important to know the risks of the test and whether it has been proven to decrease the chance of dying from cancer.It is important to remember that when your doctor suggests a screening test, it does not always mean he or she thinks you have cancer. Screening tests are done when you have no cancer symptoms.Some screening procedures can cause bleeding or other problems. For example, colon cancer screening with sigmoidoscopy or colonoscopy can cause tears in the lining of the colon."
     },
     {
       "id": 4,
       "name": "Mbagathi",
-      "image": "https://cdn.standardmedia.co.ke/sdemedia/sdeimages/tuesday/wxeli7l3dupsfk8ypu55ee93dd898c5.jpg",
+      "image": "",
       "ministry_rank": 2,
       "service": "Diabetes treatment.",
       "treatment_schedule": "Normal day and prenight.",
-      "pricing_model": "Statutory company cards",
+      "pricing_model": "Cash and Cards",
       "appointments": [],
       "health_journal": "Contrary to popular perception, there's no specific diabetes diet. You'll need to center your diet on more fruits, vegetables, lean proteins and whole grains — foods that are high in nutrition and fiber and low in fat and calories — and cut down on saturated fats, refined carbohydrates and sweets. In fact, it's the best eating plan for the entire family. Sugary foods are OK once in a while, as long as they're counted as part of your meal plan.Yet, understanding what and how much to eat can be a challenge. A registered dietitian can help you create a meal plan that fits your health goals, food preferences and lifestyle. This will likely include carbohydrate counting, especially if you have type 1 diabetes or use insulin as part of your treatment.Physical activity. Everyone needs regular aerobic exercise, and people who have diabetes are no exception. Exercise lowers your blood sugar level by moving sugar into your cells, where it's used for energy. Exercise also increases your sensitivity to insulin, which means your body needs less insulin to transport sugar to your cells."
     },
@@ -57,7 +55,7 @@
       "image": "https://lh3.googleusercontent.com/p/AF1QipP59Y0Ys5M948LqhX5NuePGzi9wLYX3kSNpMv_v=w1080-h608-p-no-v0 ",
       "ministry_rank": 3,
       "service": "Arthritis Therapy",
-      "treatment_schedule": "Normal day and prenight.",
+      "treatment_schedule": "24hrs",
       "pricing_model": "Statutory company cards",
       "appointments": [],
       "health_journal": "Arthritis is the swelling and tenderness of one or more joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis. Osteoarthritis causes cartilage — the hard, slippery tissue that covers the ends of bones where they form a joint — to break down. Rheumatoid arthritis is a disease in which the immune system attacks the joints, beginning with the lining of joints.Uric acid crystals, which form when there's too much uric acid in your blood, can cause gout. Infections or underlying disease, such as psoriasis or lupus, can cause other types of arthritis.Treatments vary depending on the type of arthritis. The main goals of arthritis treatments are to reduce symptoms and improve quality of life.."
@@ -68,29 +66,30 @@
       "image": "https://i2-prod.mirror.co.uk/incoming/article7640441.ece/ALTERNATES/s1200/Stepping-Hill-Hospital.jpg",
       "ministry_rank": 3,
       "service": "ENT Specialities.",
-      "treatment_schedule": "Normal day and prenight.",
-      "pricing_model": "Statutory company cards",
+      "treatment_schedule": "Day.",
+      "pricing_model": "All",
+      "appointments": [],
       "health_journal": "Otolaryngology is often referred to as ENT, which stands for ears, nose, throat.These areas commonly see issues that can affect the ears, nose or throat, such as tonsil problems or swimmer’s ear. Banner’s inpatient and outpatient centers can help treat any dilemmas that may arise in these areas.Whether it’s repairing the nasal septum or removing the tonsils, our outpatient ENT procedures are minimally invasive and will have you resting at home after your surgery. Other benefits of outpatient ENT procedures include a calmer setting, less people and lower cost. Some common outpatient ENT procedures include:Creating an eardrum openingTonsil and adenoid removal for both children and adults Turbinate surgery Nasal and sinus endoscopy Neck lesion removal Nasal septum repair Maxillary sinus endoscopy Banner Health’s world-renowned staff is dedicated to making your outpatient ear, nose or throat surgery as comfortable as possible for you. Talk to your doctor about what to expect during ENT outpatient surgery. "
     },
     {
       "id": 7,
       "name": "Agha Khan Nairobi",
-      "image": "https://i2-prod.mirror.co.uk/incoming/article7640#hospitalproperties",
+      "image": "https://wfumb.info/wp-content/uploads/2019/01/Kenya_AKU_Kenya_0284.jpg",
       "ministry_rank": 4,
       "service": "Cardio Therapy",
-      "treatment_schedule": "Normal day and prenight.",
-      "pricing_model": "Statutory company cards",
+      "treatment_schedule": "Prenight and Early morning",
+      "pricing_model": "Cash",
       "appointments": [],
       "health_journal": "Cardiac rehab (cardiac rehabilitation) is a comprehensive therapy combining prescribed exercise training, cardiac risk factor modification, education on heart health, diet and nutrition counseling and psychosocial support that helps you recuperate, build confidence and get stronger after you’ve had surgery or medical treatment for a heart issue, such as a heart attack.Healthcare providers such as doctors, nurses, clinical exercise physiologists, counselors and dietitians offer expertise and guidance throughout your personalized center-based cardiac rehab program, which typically takes at least three months. Cardiac rehab can help you regardless of your age, gender or whether your heart issue was minor or major. Cardiac rehab helps people who’ve had a heart attack or other heart problem recover by outlining an individualized plan for safely improving physical health and identifying and managing other risk factors. Having a heart attack or other heart issue can also be scary and make you feel depressed. Cardiac rehabilitation emphasizes the importance of psychological health and quality of life. It provides holistic support for every part of rehab so you’re not alone in reaching your goals.Each year, about 800,000 Americans have a heart attack. For 25% of them, it’s not their first one. Cardiac rehab can help prevent a second heart attack and decrease risk of death over one to three years after participation in the program, but only 20 to 30% of those eligible each year enroll in a cardiac rehab program. The American Heart Association and the American College of Cardiology provide the strongest level of endorsement for cardiac rehab for people with the heart conditions listed above."
     },
     {
       "id": 8,
       "name": "AAAR Hospital",
-      "image": "https://wfumb.info/wp-content/uploads/2019/01/Kenya_AKU_Kenya_0284.jpg",
+      "image": "",
       "ministry_rank": 4,
       "service": "Skin therapy",
-      "treatment_schedule": "Normal day and prenight.",
-      "pricing_model": "Statutory company cards",
+      "treatment_schedule": "24hrs",
+      "pricing_model": "All",
       "appointments": [],
       "health_journal": "ASDS dermatologists are experts in performing a wide range of treatments and procedures to treat the health, function and beauty of skin throughout every stage of life. They are the premier medical specialists trained to treat skin and soft tissue in both medically necessary and cosmetic surgical and non-surgical methods.Access the links below to learn more about dermabrasion, chemical peels, liposuction and many other common treatments and procedures.Dermabrasion is a procedure that uses a wire brush or a diamond wheel with rough edges to remove and level the upper layer of skin. The treated area heals, allowing new skin to grow in its place. Dermabrasion is appropriate for acne scars, age spots, crow’s feet, scars, skin growths, skin lesions, sun-damaged skin and wrinkles."
     },
@@ -101,7 +100,7 @@
       "ministry_rank": 5,
       "service": "Autistic treatment",
       "treatment_schedule": "Normal day and prenight.",
-      "pricing_model": "Statutory company cards",
+      "pricing_model": "Cash and Cards",
       "appointments": [],
       "health_journal": "Current treatments for autism spectrum disorder (ASD) seek to reduce symptoms that interfere with daily functioning and quality of life.1 ASD affects each person differently, meaning that people with ASD have unique strengths and challenges and different treatment needs.1 Therefore, treatment plans usually involve multiple professionals and are catered toward the individual.Treatments can be given in education, health, community, or home settings, or a combination of settings. It is important that providers communicate with each other and the person with ASD and their family to ensure that treatment goals and progress are meeting expectations.As individuals with ASD exit from high school and grow into adulthood, additional services can help improve health and daily functioning, and facilitate social and community engagement. For some, supports to continue education, complete job training, find employment, and secure housing and transportation may be needed.Behavioral approaches focus on changing behaviors by understanding what happens before and after the behavior. Behavioral approaches have the most evidence for treating symptoms of ASD. They have become widely accepted among educators and healthcare professionals and are used in many schools and treatment clinics. A notable behavioral treatment for people with ASD is called Applied Behavior Analysis (ABA). ABA encourages desired behaviors and discourages undesired behaviors to improve a variety of skills. Progress is tracked and measured."
     },
@@ -111,11 +110,9 @@
       "image": "https://victormatara.com/wp-content/uploads/2022/07/Komarock-Modern-Healthcare-Hospital-Maternity-Charges-1200x720.jpg",
       "ministry_rank": 5,
       "service": "Ulcers Endoscopy",
-      "treatment_schedule": "Normal day and prenight.",
-      "pricing_model": "Statutory company cards",
-      "appointments": [
-        
-      ],
+      "treatment_schedule": "Normal day.",
+      "pricing_model": "Cash",
+      "appointments": [ ],
       "health_journal": "f H. pylori is found in your digestive tract, your doctor may recommend a combination of antibiotics to kill the bacterium. These may include amoxicillin (Amoxil), clarithromycin (Biaxin), metronidazole (Flagyl), tinidazole (Tindamax), tetracycline and levofloxacin.The antibiotics used will be determined by where you live and current antibiotic resistance rates. You'll likely need to take antibiotics for two weeks, as well as additional medications to reduce stomach acid, including a proton pump inhibitor and possibly bismuth subsalicylate (Pepto-Bismol).Proton pump inhibitors — also called PPIs — reduce stomach acid by blocking the action of the parts of cells that produce acid. These drugs include the prescription and over-the-counter medications omeprazole (Prilosec), lansoprazole (Prevacid), rabeprazole (Aciphex), esomeprazole (Nexium) and pantoprazole (Protonix).Long-term use of proton pump inhibitors, particularly at high doses, may increase your risk of hip, wrist and spine fracture. Ask your doctor whether a calcium supplement may reduce this risk."
     },
     {
@@ -124,8 +121,8 @@
       "image": "https://www.kenyanews.go.ke/wp-content/uploads/2020/09/hospital.jpg-justice-1200x630.jpg",
       "ministry_rank": 5,
       "service": "Liver Biliary Screening",
-      "treatment_schedule": "Normal day and prenight.",
-      "pricing_model": "Statutory company cards",
+      "treatment_schedule": "Prenight.",
+      "pricing_model": "All",
       "appointments": [],
       "health_journal": "Cirrhosis isn't curable, but it’s treatable. Doctors have two main goals in treating this disease: Stop the damage to your liver, and prevent complications.Alcohol abuse, hepatitis, and fatty liver disease are some of the main causes. Your doctor will personalize your treatment based on what caused your cirrhosis, and the amount of liver.Your liver breaks down and removes toxins from your body. Alcohol is a toxin. When you drink too much, your liver has to work extra hard to process it.To protect your liver, you must stop drinking. That can be hard to do, especially if you've become dependent on alcohol.NASH is nonalcoholic steatohepatitis which is non-alcoholic fatty liver disease (NAFLD). It can cause liver scarring and lead to cirrhosis. While there is no medication to reverse the fatty buildup, controlling the conditions that may contribute to it can help stop the liver damage. In some cases, the liver damage has been known to reverse itself.You doctor may suggest vitamin E or pioglitazone to help. Vitamin E  alone is often perscribed for people who have NASH and don't have diabetes or cirrhosis."
     }
